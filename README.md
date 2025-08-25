@@ -17,8 +17,6 @@ I'm constantly tinkering with cutting-edge tools and frameworks to push the boun
 - 🤝 **Looking to collaborate on** AI Agents, Generative AI, and Workflow Automation projects  
 - 📫 **Reach me at:** mingxue040@gmail.com
 
----
-
 ## 🌐 Connect with me
 
 <p align="left">
@@ -26,8 +24,6 @@ I'm constantly tinkering with cutting-edge tools and frameworks to push the boun
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="40"/>
   </a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -47,24 +43,16 @@ I'm constantly tinkering with cutting-edge tools and frameworks to push the boun
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40"/>
 </p>
 
----
-
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonR553&layout=compact&langs_count=8&theme=dark)
 
----
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JacksonR553&theme=dark)
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonnloo&theme=dark" alt="leonnloo" /></p>
 
 ## 🏆 Certifications & Achievements
 
 - 📜 **[Google IT Automation Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)** - Coursera
-
----
 
 **Thanks for stopping by! Let's connect and build something extraordinary together ✨**
