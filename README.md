@@ -49,7 +49,7 @@ I'm constantly tinkering with cutting-edge tools and frameworks to push the boun
 
 ## 📈 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonR553&theme=dark" alt="JacksonR553" /></p>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JacksonR553&theme=dark)
 
 ## 🏆 Certifications & Achievements
 
