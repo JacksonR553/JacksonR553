@@ -12,7 +12,7 @@ Hi there! I'm passionate about building intelligent systems that merge creativit
 
 I'm constantly tinkering with cutting-edge tools and frameworks to push the boundaries of what's possible. Let's build the future of AI and automation together!
 
-My FYP had been posted on UTAR Repo, Check it Out ! ![Here](http://eprints.utar.edu.my/7343/)
+My FYP had been posted on UTAR Repo, Check it Out ! [Here](http://eprints.utar.edu.my/7343/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=JacksonR553&label=Profile%20views&color=e12323&style=flat)
 
